@@ -1,0 +1,16 @@
+{
+  "name": "svelte-shiki",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "next",
+    "shiki": "^0.9.12",
+    "svelte": "^3.44.0"
+  }
+}
